@@ -15,5 +15,5 @@ Open the folder in IntelliJ IDEA and run Main.java
 - Priority queue enqueue: O(n), dequeue: O(1)
 - Queue and stack operations: O(1)
 
-## Authors
-Zuhra, Muqadas, and Saira.
+## Author
+Zuhran
